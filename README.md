@@ -29,16 +29,3 @@ The following needs to be ensured while scraping:
         - Number of restaurants for each type of cuisine.
     - You are hired by a consultancy firm, one of their clients wants to open a remote kitchen (Only delivery) in Banglore suggest to them which location will be suitable for their restaurant and what should be the price of different types of dishes in the early days.
 
-### **TASK YOU HAVE TO DO ON EXCEL :**
-
-- Now generate insight on your own to create a `Dynamic Excel Dashboard`
-    
-    NOTE - make sure to generate a minimum of 6 useful insights and provide slicers which should connected which each chart
-    
-
-### PowerPoint Presentation -
-
-- Create a `PPT` using your creativity through which you can explain your insights while giving a presentation.
-- mention the insight that you have solved using `SQL`
-- Make sure to add a Screenshot of the `Excel Dashboard`  in PPT
-- Refer to this notion DOC for presentation and submission guidelines - [NOTION DOC](https://www.notion.so/c385944f5e4b4eb79beedc657c6c3ed8?pvs=21)
